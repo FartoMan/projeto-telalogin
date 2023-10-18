@@ -7,8 +7,8 @@
 */
 
 :root {
-    --Verde: #49a09d;
-    --Lilás: #5f2c82;
+    --Verde: #F57D25;
+    --Lilás: #4D9AA2;
 }
 
 * {
@@ -118,8 +118,8 @@ form > input[type=submit] {
     border-radius: 5px;
     cursor: pointer;
 }
-form >input[type=submit]:hover {
-    background-color: #2d6462;
+form > input[type=submit]:hover {
+    background-color: #B57748;
 }
 
 form > a.botao {
@@ -131,14 +131,14 @@ form > a.botao {
     padding-top: 7px;
     margin-top: 5px;
     background-color: #fff;
-    color: #2d6462;
+    color: #B57748;
     border: 1px solid var(--Verde);
     border-radius: 5px;
     text-decoration: none;
 }
 
 form > a.botao:hover {
-    background-color: #6cd3cf;
+    background-color: #4D9AA2;
 }
 
 form > a.botao > i {
